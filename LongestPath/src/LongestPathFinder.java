@@ -7,7 +7,7 @@ public class LongestPathFinder {
         Node left;
         Node right;
         int data;
-    };
+    }
 
     //to create a new Binary Node
     static Node newNode(int data) {
