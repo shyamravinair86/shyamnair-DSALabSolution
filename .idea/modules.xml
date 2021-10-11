@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BalancingBrackets/BalancingBrackets.iml" filepath="$PROJECT_DIR$/BalancingBrackets/BalancingBrackets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSALabSolution.iml" filepath="$PROJECT_DIR$/.idea/DSALabSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestPath/LongestPath.iml" filepath="$PROJECT_DIR$/LongestPath/LongestPath.iml" />
+    </modules>
+  </component>
+</project>
